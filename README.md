@@ -17,12 +17,12 @@ Certifique-se de ter as seguintes ferramentas instaladas:
 - arquivo requirements.txt
 
 ## Execultar aplicacao
-# 1° Clone o repositório
-# 2° Crie e ative um ambiente virtual
-# 3° Instale as dependências requirements.txt
-# 4° Inicie o servidor com o Uvicorn
+### 1° Clone o repositório
+### 2° Crie e ative um ambiente virtual
+### 3° Instale as dependências requirements.txt
+### 4° Inicie o servidor com o Uvicorn
     uvicorn main:app
-# 5° Execulte um POST para aplicação
+### 5° Execulte um POST para aplicação
     http POST http://localhost:8000/"verificar Swagger"
 
 
